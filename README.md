@@ -16,4 +16,8 @@ From the CSV file you will notice it did not import covers (you suck amazon).
 
 for me this was Quick workaround without API promises and fetch well for me it's easier to work with coming from Shopify dev ( yeah I'm pretty sure there is a easier way to do it) 
 
+https://www.npmjs.com/package/convert-csv-to-json
+
+
+
 
